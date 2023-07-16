@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">tuan2</string>
+    <string name="broadcast_receiver">Broadcast Receiver</string>
+    <string name="retrofit">Retrofit</string>
+    <string name="coroutine">Coroutine</string>
+    <string name="button">PRESS TO COUNT</string>
+</resources>
